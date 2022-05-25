@@ -1,3 +1,5 @@
+# All credits to to the original [HMS react-native plugin](https://github.com/HMS-Core/hms-react-native-plugin). This fork will exists as long as the compatibility with gradle 7 (react-native buiulds +0.67) gets fixed. Look at [this issue](https://github.com/HMS-Core/hms-react-native-plugin/issues/179) posted in the original repo.
+
 <p align="center">
   <h1 align="center">React-Native HMS Map</h1>
 </p>
